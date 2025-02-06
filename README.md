@@ -1,2 +1,2 @@
 # OS-Lab (exp-1.a):
-![screenshot]()
+![screenshot](os5.jpg)
